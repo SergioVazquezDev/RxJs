@@ -12,7 +12,7 @@
   "devDependencies": {
     "ts-loader": "^6.1.2",
     "css-loader": "^3.2.0",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development --open --port=8081"
